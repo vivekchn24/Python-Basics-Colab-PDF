@@ -11,3 +11,10 @@ IN COLAB-PDF FOLDER YOU FIND BELOW CONTENTS:
 6) PYTHON MODULES
 7) PYTHON STRING
 8) PYTHON TUPLES
+
+## 🪪 License
+
+This repository is open for learning and non-commercial use.  
+Please give credit if you share or reuse the material. 🙌
+
+-⭐ This Core Python Practice was completed as part of my data analytics training/Journey And the Core Python Practice Done At <a href="https://futurevisioncomputers.com/">Future Vision Computer Institute</a>,Surat.
